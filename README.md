@@ -1,7 +1,5 @@
 # Haze
 
-Backend, infrastructure, and agents that run in production. Paris.
-
 This is my side-projects account. 
 
 ## Stack
